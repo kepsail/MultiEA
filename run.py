@@ -15,7 +15,6 @@ import math
 import numpy as np
 
 # import torchstat.stat
-#啥问题  第二个数据集的索引要减去第一个数据集的实体数量！！！！！！！！！！！！！！！！！！！
 
 
 import torch
