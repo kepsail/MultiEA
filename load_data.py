@@ -162,7 +162,7 @@ class AlignmentData:
 
 
 if __name__ == '__main__':
-    # TEST
+    
 
     d = AlignmentData(share=False, swap=False)
     print(d)
