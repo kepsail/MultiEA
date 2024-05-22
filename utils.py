@@ -520,7 +520,6 @@ def sim_boot(ref_sim_mat, id_1_set, id_2_set, cur, th, top=5):
 
 
 
-# --- Code from AliNet (https://github.com/nju-websoft/AliNet) ---
 from sklearn import preprocessing
 from sklearn.metrics.pairwise import euclidean_distances
 from scipy.spatial.distance import cdist
