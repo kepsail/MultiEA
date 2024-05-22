@@ -1,11 +1,3 @@
-#!/usr/bin/env python3
-# -*- coding: utf-8 -*-
-"""
-  File name:    load_data.py
-  Author:       locke
-  Date created: 2020/3/25 下午7:00
-"""
-
 import time
 import numpy as np
 
