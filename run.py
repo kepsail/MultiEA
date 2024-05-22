@@ -1,11 +1,3 @@
-#!/usr/bin/env python3
-# -*- coding: utf-8 -*-
-"""
-  File name:    run.py
-  Author:       locke
-  Date created: 2020/3/25 下午6:58
-"""
-
 import time
 import argparse
 import os
