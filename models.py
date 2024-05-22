@@ -1,11 +1,3 @@
-#!/usr/bin/env python3
-# -*- coding: utf-8 -*-
-"""
-  File name:    models.py
-  Author:       locke
-  Date created: 2020/3/25 下午6:59
-"""
-
 import numpy as np
 import torch
 import torch.nn as nn
