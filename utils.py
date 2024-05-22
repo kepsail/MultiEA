@@ -1,11 +1,3 @@
-#!/usr/bin/env python3
-# -*- coding: utf-8 -*-
-"""
-  File name:    utils.py
-  Author:       locke
-  Date created: 2020/3/25 下午9:37
-"""
-
 import os, time, multiprocessing
 import gc
 import random
